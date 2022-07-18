@@ -3,13 +3,15 @@ Mental Buddy was developed as I realised the prevalence of poor mental wellness 
 Mental Buddy has a few key features, including an information booklet about Mental Health, a Mindfulness Timer, a Quiz and a list of helplines.
 
 ## App Screenshots
-<img src="app_screenshots/home-screen.png" style="height: 300px; width: 200px;" alt="Home Screen">
-<img src="app_screenshots/informationview.png" style="height: 300px; width: 200px;" alt="Information Screen">
-<img src="app_screenshots/mindfulness-start.png" style="height: 300px; width: 200px;" alt="Mindfulness Start Screen">
-<img src="app_screenshots/mindfulness-timer.png" style="height: 300px; width: 200px;" alt="Mindfulness Timer Screen">
-<img src="app_screenshots/quiz.png" style="height: 300px; width: 200px;" alt="Quiz Screen">
-<img src="app_screenshots/quiz-qns.png" style="height: 300px; width: 200px;" alt="Quiz Questions Screen">
-<img src=“app_screenshots/contact.png” style="height: 300px; width: 200px;" alt=“Contact View">  
+<div class="grid-container">
+<img src="app_screenshots/home-screen.png" class="grid-item" style="height: 300px; width: 200px;" alt="Home Screen">
+<img src="app_screenshots/informationview.png" class="grid-item"  style="height: 300px; width: 200px;" alt="Information Screen">
+<img src="app_screenshots/mindfulness-start.png" class="grid-item"  style="height: 300px; width: 200px;" alt="Mindfulness Start Screen">
+<img src="app_screenshots/mindfulness-timer.png" class="grid-item"  style="height: 300px; width: 200px;" alt="Mindfulness Timer Screen">
+<img src="app_screenshots/quiz.png" class="grid-item"  style="height: 300px; width: 200px;" alt="Quiz Screen">
+<img src="app_screenshots/quiz-qns.png" class="grid-item"  style="height: 300px; width: 200px;" alt="Quiz Questions Screen">
+<img src="app_screenshots/contact.png" class="grid-item"  style="height: 300px; width: 200px;" alt="Contact View">  
+</div>
 
 ## Features
 ### 1. Information Booklet
