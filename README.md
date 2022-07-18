@@ -1,6 +1,16 @@
 # Mental Buddy
 Mental Buddy was developed as I realised the prevalence of poor mental wellness worldwide and a lack of understanding of mental wellness. Mental Buddy helps educate people on the importance of maintaining good mental wellness, providing statistics relating to mental health, symptoms of mental illnesses, common mental illnesses that people face and ways to improve one's mental wellness.
 Mental Buddy has a few key features, including an information booklet about Mental Health, a Mindfulness Timer, a Quiz and a list of helplines.
+
+## App Screenshots
+<img src=“app_screenshots/home-screen.png” alt=“Home Screen”>
+<img src=“app_screenshots/informationview.png” alt=“Information Screen”>
+<img src=“app_screenshots/mindfulness-start.png” alt=“Mindfulness Start Screen”>
+<img src=“app_screenshots/mindfulness-timer.png” alt=“Mindfulness Timer Screen”>
+<img src=“app_screenshots/quiz.png” alt=“Quiz Screen”>
+<img src=“app_screenshots/quiz-qns.png” alt=“Quiz Questions Screen”>
+<img src=“app_screenshots/contact.png” alt=“Contact View”>
+
 ## Features
 ### 1. Information Booklet
 The Information Booklet contains useful information that everyone should know. The booklet contains information such as  
